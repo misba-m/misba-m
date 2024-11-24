@@ -11,7 +11,7 @@
 
 📫How to Reach Me: 
 - [LinkedIn](https://www.linkedin.com/in/misba-m-11b850242)  
-- [Email](misba19m@gmail.com)
+- [Email] misba19m@gmail.com
 
 ⚡ Fun Fact:  
 I love solving problems and enjoy experimenting with web animations!
